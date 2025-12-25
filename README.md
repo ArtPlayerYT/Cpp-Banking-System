@@ -2,7 +2,6 @@
 
 A robust, console-based banking application developed in C++ that simulates real-world banking operations. This project demonstrates proficiency in Object-Oriented Programming (OOP), file handling for data persistence, and C++ Standard Template Library (STL).
 
-![Banking System Interface]
 <img width="1077" height="576" alt="Screenshot 2025-12-25 171253" src="https://github.com/user-attachments/assets/7ff4031a-5ac9-4c22-88b4-c3610b45bcbc" />
 
 
@@ -53,7 +52,7 @@ The system offers 7 distinct operations handled via a `switch-case` menu:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/banking-system.git](https://github.com/yourusername/banking-system.git)
+    git clone https://github.com/ArtPlayerYT/Cpp-Banking-System.git
     ```
 2.  **Compile the code:**
     ```bash
